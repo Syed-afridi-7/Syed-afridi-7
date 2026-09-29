@@ -7,7 +7,7 @@
 
   <!-- Dynamic Typing Tagline -->
   <a href="https://github.com/Syed-afridi-7">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&multiline=false&lines=Software+Developer+Intern+%40+Sona+Incubation+Foundation;BCA+Cybersecurity+Student+%26+Problem+Solver;Building+Scalable+Platforms+%E2%80%A2+Edgyy+%26+AXYE+Store;Linux+Enthusiast+%7C+Python+%E2%80%A2+C+%E2%80%A2+Java+%E2%80%A2+Modern+Web" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3600&pause=1200&color=38BDF8&center=true&vCenter=true&multiline=false&width=800&height=50&lines=Software+Developer+Intern+%40+Sona+Incubation+Foundation;BCA+Cybersecurity+Student+%26+Problem+Solver;Building+Scalable+Platforms+%E2%80%A2+Edgyy+%26+AXYE+Store;Linux+Enthusiast+%7C+Python+%E2%80%A2+C+%E2%80%A2+Java+%E2%80%A2+Modern+Web" width="100%" style="max-width: 800px;" alt="Typing SVG" />
   </a>
 
   <br /><br />

@@ -1,217 +1,204 @@
-<p align="center">
-  <img src="assets/header.svg" width="100%" alt="Syed Afridi Header" />
-</p>
+<div align="center">
 
-<p align="center">
+  <!-- Header Banner -->
+  <img src="assets/header.svg" width="100%" alt="Syed Afridi - Software Developer & Cybersecurity Student" />
+
+  <br />
+
+  <!-- Dynamic Typing Tagline -->
   <a href="https://github.com/Syed-afridi-7">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=false&lines=Hi%20There%2C%20I'm%20Syed%20Afridi%20%F0%9F%91%8B;BCA%20Cybersecurity%20Student%20%26%20Developer%20%F0%9F%9B%A1%EF%B8%8F;Exploring%20System%20Security%20%26%20Defensive%20Architecture%20%F0%9F%94%90;Building%20Resilient%20Full-Stack%20Web%20Solutions%20%F0%9F%9A%80;Linux%2C%20Docker%20%26%20Python%20Enthusiast%20%F0%9F%90%A7" width="100%" style="max-width: 620px;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&multiline=false&lines=Software+Developer+Intern+%40+Sona+Incubation+Foundation;BCA+Cybersecurity+Student+%26+Problem+Solver;Building+Scalable+Platforms+%E2%80%A2+Edgyy+%26+AXYE+Store;Linux+Enthusiast+%7C+Python+%E2%80%A2+C+%E2%80%A2+Java+%E2%80%A2+Modern+Web" alt="Typing SVG" />
   </a>
-</p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/syed-afridi-184507/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-00F2FE?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
+  <br /><br />
+
+  <!-- Quick Social Badges -->
+  <a href="https://www.linkedin.com/in/syed-afridi-184507id/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="https://leetcode.com/u/Syed_Afridi_18/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Solve-00F2FE?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
+  &nbsp;
   <a href="mailto:afridi.gd.18@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-00F2FE?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-afridi.gd.18%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/Syed-afridi-7" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=00F2FE&labelColor=0a0a0a" alt="GitHub" />
+  &nbsp;
+  <a href="https://nullvoidcodez.tutyafridi216.workers.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0284C7?style=flat-square&logo=cloudflare&logoColor=white" alt="Portfolio" />
   </a>
-</p>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Syed-afridi-7&label=Profile%20Views&color=0284c7&style=flat-square" alt="Profile Views" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Syed-afridi-7&label=PROFILE%20VIEWS&color=00f2fe&style=for-the-badge" alt="Profile Views" />
-</p>
+</div>
 
-<h2 align="center">About Me</h2>
+---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=false&lines=Turning+code+into+defense.+Engineering+scalable+systems.+Securing+the+modern+web." width="100%" style="max-width: 600px;" alt="Typing Quote" />
-</p>
+### 👤 About Me
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="340" style="max-width: 100%; border-radius: 12px;" alt="Developer coding animation" />
-</p>
+I am a **BCA (Cybersecurity)** student at **Sona College of Arts and Science**, driven by a strong problem-solving mindset and a passion for engineering practical, reliable software. 
 
-<p align="center">
-  Hey! I'm <b>Syed Afridi</b>, a <b>BCA Cybersecurity student & full-stack developer</b> at <b>Sona College of Arts and Science</b>.<br />
-  I specialize in system security, offensive and defensive security concepts, and architecting resilient full-stack web solutions.<br />
-  Passionate about exploring low-level system internals, hardening Linux environments with Docker, and building high-performance web platforms.
-</p>
+Currently, I work as a **Software Developer Intern at Sona Incubation Foundation**, where I help architect scalable internal systems, alongside taking on independent freelance client projects. I thrive at the intersection of clean application code, Linux systems, and security-first development practices.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Shipping%20%26%20Leveling%20Up-111111?style=flat-square" alt="Status" />
-  <img src="https://img.shields.io/badge/Degree-BCA%20Cybersecurity-00F2FE?style=flat-square&labelColor=0a0a0a" alt="Degree" />
-  <img src="https://img.shields.io/badge/Focus-System%20Security%20%26%20Full--Stack-111111?style=flat-square" alt="Focus" />
-</p>
+- 💼 **Current Role:** Software Developer Intern @ Sona Incubation Foundation & Freelancer
+- 🎯 **Primary Interests:** Core Software Development, System Security & Scripting, Scalable Web Platforms
+- 🧠 **Key Strengths:** Algorithmic Aptitude, Linux Systems Administration, Fast Prototyping
+- ⚡ **Philosophy:** *"Write clean, reason clearly, and engineer systems that stay resilient under load."*
 
-<p align="center">
-  <b>Let's Discuss:</b> Python, C, JavaScript, System Security, Web Vulnerabilities, React, Docker &amp; Linux Internals.<br />
-  <b>Philosophy:</b> <i>"Turning code into defense &mdash; engineering scalable systems that stand strong under scrutiny."</i>
-</p>
+---
 
-<table width="100%" border="0" align="center">
+### 🚀 Featured Production Projects
+
+<table>
   <tr>
-    <td width="50%" align="center" style="padding: 14px;">
-      <h4>Flagship Project</h4>
-      <p>
-        <a href="https://edgyn.in" target="_blank"><b>Edgyn</b></a><br />
-        <sub>Modern Web Platform &amp; Scalable Architecture</sub>
+    <td width="50%" valign="top">
+      <h3 align="center">🏛️ Edgyy</h3>
+      <p align="center"><b>The Operating System for Modern Startup Incubators</b></p>
+      <p align="justify">
+        Engineered during my internship at <b>Sona Incubation Foundation</b>. Edgyy is a comprehensive SaaS management platform built to streamline incubator operations: managing resident startups, tracking cohort KPIs, mentor assignments, funding rounds, and student internships.
       </p>
-    </td>
-    <td width="50%" align="center" style="padding: 14px;">
-      <h4>Active Deep Dives</h4>
-      <p>
-        <b>System Security &amp; Linux Internals</b><br />
-        <sub>Defensive Architecture &amp; Vulnerability Research</sub>
+      <p align="center">
+        <code>SaaS Architecture</code> &bull; <code>Dashboard UI</code> &bull; <code>Incubator Ops</code>
       </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" style="padding: 14px;">
-      <h4>Full-Stack Focus</h4>
-      <p>
-        <b>React, Next.js &amp; Node.js</b><br />
-        <sub>High-Performance End-to-End Applications</sub>
-      </p>
-    </td>
-    <td width="50%" align="center" style="padding: 14px;">
-      <h4>Collaboration</h4>
-      <p>
-        <b>Cybersecurity &amp; Web Projects</b><br />
-        <sub>Open to innovative initiatives &amp; research</sub>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<h2 align="center">Featured Project Spotlight</h2>
-
-<table width="100%" border="0" align="center">
-  <tr>
-    <td align="center" style="padding: 22px;">
-      <h3>Edgyn</h3>
-      <p><i>A cutting-edge modern web platform engineered for speed, clean user experience, and high scalability across modern web environments.</i></p>
-      <br />
-      <p>
-        <a href="https://edgyn.in" target="_blank">
-          <img src="https://img.shields.io/badge/Live%20Platform-%20Visit%20Platform-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0a0a" alt="Visit Platform" />
+      <p align="center">
+        <a href="https://edgyy.in" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Platform-edgyy.in-0284C7?style=flat-square&logo=googlechrome&logoColor=white" alt="Edgyy Live" />
         </a>
-        <a href="https://github.com/Syed-afridi-7" target="_blank">
-          <img src="https://img.shields.io/badge/Source%20Code-%20View%20Projects-111111?style=for-the-badge&logo=github&logoColor=00F2FE&labelColor=0a0a0a" alt="Source Code" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛍️ AXYE Store</h3>
+      <p align="center"><b>Luxury Men's & Women's Accessories E-Commerce</b></p>
+      <p align="justify">
+        A freelance client production build designed for modern luxury retail. Features a responsive, high-aesthetic storefront showcasing premium curated accessories with seamless navigation, optimized catalog browsing, and conversion-focused checkout flow.
+      </p>
+      <p align="center">
+        <code>E-Commerce</code> &bull; <code>Frontend Design</code> &bull; <code>Client Delivery</code>
+      </p>
+      <p align="center">
+        <a href="https://axyestore.in" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Store-axyestore.in-0F172A?style=flat-square&logo=shopify&logoColor=white" alt="AXYE Store Live" />
         </a>
       </p>
     </td>
   </tr>
 </table>
 
-<h2 align="center">LeetCode Problem Solving</h2>
+---
 
-<p align="center">
-  <i>Live real-time tracker of algorithmic milestones, data structures, and problem-solving progress.</i>
-</p>
+### 🛠️ Tech Stack & Toolkit
 
-<p align="center">
+```
+Languages & Core    ──  Python  ──  C  ──  Java  ──  JavaScript  ──  HTML5 / CSS3
+OS & Infrastructure ──  Linux   ──  Bash ── Git  ──  GitHub      ──  Docker (Basics)
+Frontend & Design   ──  Responsive Web  ── Tailwind CSS ── Modern UI Components
+AI & Accelerated Dev──  Cursor  ──  ChatGPT  ── GitHub Copilot ── Prompt Engineering
+```
+
+<br />
+
+<div align="center">
+
+| Domain | Technologies & Environments |
+| :--- | :--- |
+| **Core Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Environments & Tools** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Bash](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
+| **Frontend & UI** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **AI-Assisted Workflow** | ![AI Tools](https://img.shields.io/badge/AI_Assisted_Dev-Prompt_Engineering_&_Automation-8B5CF6?style=flat-square&logo=openai&logoColor=white) |
+
+</div>
+
+---
+
+### 🔭 Current Focus & Learning Journey
+
+- 🧩 **Data Structures & Problem Solving:** Actively practicing daily patterns on LeetCode to sharpen algorithmic intuition and time complexity optimization.
+- 🛡️ **Defensive Security & Network Fundamentals:** Exploring core concepts in system hardening, safe memory patterns, and web security.
+- ⚙️ **End-to-End Engineering:** Expanding my full-stack capabilities with real-world database design and backend services.
+
+---
+
+### 📊 GitHub Activity & Analytics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=Syed-afridi-7&show_icons=true&bg_color=080C15&title_color=38BDF8&text_color=E2E8F0&icon_color=38BDF8&border_color=1E293B" alt="Syed Afridi GitHub Stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Syed-afridi-7&layout=compact&bg_color=080C15&title_color=38BDF8&text_color=E2E8F0&border_color=1E293B" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <br />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syed-afridi-7&theme=dark&hide_border=false&border=38BDF8&background=080C15&ring=38BDF8&fire=38BDF8" alt="GitHub Streak" />
+
+  <br /><br />
+
+  <!-- Animated Contribution Snake -->
+  <img src="https://raw.githubusercontent.com/Syed-afridi-7/Syed-afridi-7/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Grid Snake" />
+</div>
+
+---
+
+### 💡 LeetCode Problem Solving
+
+<div align="center">
+  <p><i>Consistent algorithmic practice and problem-solving milestones.</i></p>
+  
   <a href="https://leetcode.com/u/Syed_Afridi_18/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Syed_Afridi_18?theme=dark&font=Karma&border=0&radius=12" width="100%" style="max-width: 480px;" alt="LeetCode Live Stats Card" />
+    <img src="https://leetcard.jacoblin.cool/Syed_Afridi_18?theme=dark&font=Karma&border=0&radius=10" width="100%" style="max-width: 480px;" alt="LeetCode Card" />
   </a>
-</p>
-
-<p align="center">
+  
+  <br /><br />
+  
   <a href="https://leetcode.com/u/Syed_Afridi_18/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Visit%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" alt="LeetCode Profile" />
+    <img src="https://img.shields.io/badge/LeetCode-Visit%20Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://leetcode.com/u/Syed_Afridi_18/" target="_blank">
-    <img src="https://img.shields.io/badge/Problems%20Solved-Live%20Tracker-00F2FE?style=for-the-badge&logo=target&logoColor=white&labelColor=0a0a0a" alt="Problems Solved" />
+</div>
+
+---
+
+### 📜 Certifications & Achievements
+
+<!-- Expandable section for verified milestones & certifications -->
+<details open>
+  <summary><b>Academic & Professional Milestones</b></summary>
+  <br />
+  <ul>
+    <li>🏛️ <b>Software Developer Intern</b> &mdash; Sona Incubation Foundation (Active)</li>
+    <li>🎓 <b>BCA (Cybersecurity)</b> &mdash; Sona College of Arts and Science (Pursuing)</li>
+    <li>🛍️ <b>Commercial Freelance Delivery</b> &mdash; AXYE Store E-Commerce Platform</li>
+    <li><i>(Upcoming professional certifications & security credentials will be listed here)</i></li>
+  </ul>
+</details>
+
+---
+
+### 🤝 Let's Connect
+
+Whether you're looking to discuss **software development, incubator tooling, freelance projects**, or open-source collaboration, my inbox is always open.
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/syed-afridi-184507id/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
-
-<h2 align="center">Tech Stack &amp; Skills</h2>
-
-<p align="center"><b>Core Programming Languages</b></p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,js,html,css&theme=dark" width="100%" style="max-width: 380px;" alt="Core Languages" />
+  &nbsp;&nbsp;
+  <a href="mailto:afridi.gd.18@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
-
-<p align="center"><b>Modern Web &amp; Backend</b></p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,mongodb&theme=dark" width="100%" style="max-width: 320px;" alt="Modern Web &amp; Backend" />
+  &nbsp;&nbsp;
+  <a href="https://nullvoidcodez.tutyafridi216.workers.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0284C7?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Portfolio" />
   </a>
-</p>
+</div>
 
-<p align="center"><b>Tools, DevOps &amp; Security Environments</b></p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,docker,git,github,postman&theme=dark" width="100%" style="max-width: 380px;" alt="Tools and Environments" />
-  </a>
-</p>
+<br />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-System%20Security-00F2FE?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0a0a0a" alt="Cybersecurity" />
-  <img src="https://img.shields.io/badge/Defensive%20Security-Hardening-00F2FE?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0a0a0a" alt="Defensive Security" />
-  <img src="https://img.shields.io/badge/Network%20Security-Protocols-00F2FE?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0a0a0a" alt="Network Security" />
-</p>
-
-<h2 align="center">GitHub Analytics &amp; Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Syed-afridi-7&show_icons=true&bg_color=0a0a0f&title_color=00f2fe&text_color=f3f4f6&icon_color=00f2fe&border_color=1f293d" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Syed-afridi-7&layout=compact&bg_color=0a0a0f&title_color=00f2fe&text_color=f3f4f6&border_color=1f293d" width="100%" style="max-width: 350px;" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syed-afridi-7&theme=dark&hide_border=false&border=00f2fe&background=0a0a0f&ring=00f2fe&fire=00f2fe" width="100%" style="max-width: 480px;" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="assets/quote.svg" width="100%" style="max-width: 720px;" alt="Code and Security Quote" />
-</p>
-
-<h2 align="center">Contribution Journey</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Syed-afridi-7/Syed-afridi-7/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
-</p>
-
-<h2 align="center">Let's Connect &amp; Collaborate</h2>
-
-<p align="center">
-  <i>Whether you want to discuss system security, web development, open-source initiatives, or explore collaboration &mdash; feel free to reach out!</i>
-</p>
-
-<table border="0" align="center">
-  <tr>
-    <td align="center" width="220" style="padding: 16px;">
-      <a href="https://www.linkedin.com/in/syed-afridi-184507/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" /><br /><br />
-        <img src="https://img.shields.io/badge/LinkedIn-Connect-00F2FE?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
-      </a><br />
-      <sub><b>Professional Network</b></sub>
-    </td>
-    <td align="center" width="220" style="padding: 16px;">
-      <a href="mailto:afridi.gd.18@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail" /><br /><br />
-        <img src="https://img.shields.io/badge/Email-Contact%20Me-00F2FE?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
-      </a><br />
-      <sub><b>Direct Communication</b></sub>
-    </td>
-    <td align="center" width="220" style="padding: 16px;">
-      <a href="https://leetcode.com/u/Syed_Afridi_18/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=leetcode" width="60" height="60" alt="LeetCode" /><br /><br />
-        <img src="https://img.shields.io/badge/LeetCode-Solve-00F2FE?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" alt="LeetCode" />
-      </a><br />
-      <sub><b>Algorithmic Challenges</b></sub>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="assets/footer.svg" width="100%" alt="Footer" />
-</p>
+<div align="center">
+  <sub>Crafted with care by <b>Syed Afridi</b> &bull; Built with clean Markdown &amp; GitHub Actions</sub>
+</div>

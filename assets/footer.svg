@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120" fill="none">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="footerBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#06080D"/>
+      <stop offset="50%" stop-color="#09101E"/>
+      <stop offset="100%" stop-color="#04060A"/>
+    </linearGradient>
+
+    <!-- Neon Center Glow Bar Gradient -->
+    <linearGradient id="glowBarGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f3ff" stop-opacity="0"/>
+      <stop offset="25%" stop-color="#00f3ff" stop-opacity="0.6"/>
+      <stop offset="45%" stop-color="#38bdf8" stop-opacity="0.9"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="1"/>
+      <stop offset="55%" stop-color="#38bdf8" stop-opacity="0.9"/>
+      <stop offset="75%" stop-color="#00f3ff" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#00f3ff" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Edge Fade Mask for Grid Lines -->
+    <linearGradient id="fadeMaskGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="15%" stop-color="#ffffff" stop-opacity="0.8"/>
+      <stop offset="85%" stop-color="#ffffff" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+
+    <mask id="gridFadeMask">
+      <rect width="1200" height="120" fill="url(#fadeMaskGrad)"/>
+    </mask>
+
+    <!-- Neon Bar Glow Filter -->
+    <filter id="laserGlow" x="-20%" y="-100%" width="140%" height="300%">
+      <feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#00F3FF" flood-opacity="0.85"/>
+      <feDropShadow dx="0" dy="0" stdDeviation="2" flood-color="#38BDF8" flood-opacity="0.95"/>
+    </filter>
+
+    <filter id="coreGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    .font-mono {
+      font-family: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'SF Mono', Consolas, monospace;
+    }
+  </style>
+
+  <!-- Background -->
+  <rect width="1200" height="120" fill="url(#footerBg)"/>
+
+  <!-- Sleek Cyber Grid Lines Fading at Edges -->
+  <g mask="url(#gridFadeMask)">
+    <!-- Horizontal Tech Grid Lines -->
+    <line x1="0" y1="18" x2="1200" y2="18" stroke="#00f3ff" stroke-width="0.75" stroke-opacity="0.08"/>
+    <line x1="0" y1="36" x2="1200" y2="36" stroke="#00f3ff" stroke-width="0.75" stroke-opacity="0.12"/>
+    <line x1="0" y1="64" x2="1200" y2="64" stroke="#00f3ff" stroke-width="0.75" stroke-opacity="0.12"/>
+    <line x1="0" y1="84" x2="1200" y2="84" stroke="#00f3ff" stroke-width="0.75" stroke-opacity="0.08"/>
+    <line x1="0" y1="102" x2="1200" y2="102" stroke="#00f3ff" stroke-width="0.75" stroke-opacity="0.05"/>
+
+    <!-- Subtle Vertical Grid Lines -->
+    <line x1="150" y1="0" x2="150" y2="120" stroke="#38bdf8" stroke-width="0.5" stroke-opacity="0.06"/>
+    <line x1="300" y1="0" x2="300" y2="120" stroke="#38bdf8" stroke-width="0.5" stroke-opacity="0.08"/>
+    <line x1="450" y1="0" x2="450" y2="120" stroke="#38bdf8" stroke-width="0.5" stroke-opacity="0.1"/>
+    <line x1="600" y1="0" x2="600" y2="120" stroke="#38bdf8" stroke-width="0.5" stroke-opacity="0.12"/>
+    <line x1="750" y1="0" x2="750" y2="120" stroke="#38bdf8" stroke-width="0.5" stroke-opacity="0.1"/>
+    <line x1="900" y1="0" x2="900" y2="120" stroke="#38bdf8" stroke-width="0.5" stroke-opacity="0.08"/>
+    <line x1="1050" y1="0" x2="1050" y2="120" stroke="#38bdf8" stroke-width="0.5" stroke-opacity="0.06"/>
+  </g>
+
+  <!-- Sleek Top Boundary Accent -->
+  <line x1="100" y1="1" x2="1100" y2="1" stroke="url(#glowBarGrad)" stroke-width="1" stroke-opacity="0.4"/>
+
+  <!-- Neon Cyan Center Glow Bar -->
+  <g transform="translate(0, 48)">
+    <!-- Wide Ambient Glow Beam -->
+    <line x1="180" y1="0" x2="1020" y2="0" stroke="url(#glowBarGrad)" stroke-width="2.5" filter="url(#laserGlow)"/>
+    <!-- Intense Inner Core -->
+    <line x1="340" y1="0" x2="860" y2="0" stroke="#ffffff" stroke-width="1.2" opacity="0.9"/>
+
+    <!-- Central Cyber Diamond Nexus -->
+    <polygon points="600,-6 606,0 600,6 594,0" fill="#00f3ff" filter="url(#coreGlow)"/>
+    <circle cx="600" cy="0" r="2" fill="#ffffff"/>
+
+    <!-- Satellite Pulse Nodes -->
+    <circle cx="450" cy="0" r="3" fill="#00f3ff" filter="url(#coreGlow)"/>
+    <circle cx="450" cy="0" r="1.5" fill="#ffffff"/>
+    <circle cx="750" cy="0" r="3" fill="#00f3ff" filter="url(#coreGlow)"/>
+    <circle cx="750" cy="0" r="1.5" fill="#ffffff"/>
+
+    <circle cx="320" cy="0" r="2" fill="#38bdf8" opacity="0.8"/>
+    <circle cx="880" cy="0" r="2" fill="#38bdf8" opacity="0.8"/>
+  </g>
+
+  <!-- Subtle Footer Text -->
+  <text x="600" y="86" text-anchor="middle" class="font-mono" font-size="12.5" font-weight="500" fill="#94A3B8" letter-spacing="1.8">
+    Crafted with precision by <tspan fill="#38BDF8" font-weight="700">Syed Afridi</tspan> <tspan fill="#00F3FF">•</tspan> BCA Cybersecurity <tspan fill="#00F3FF">•</tspan> <tspan fill="#E2E8F0">Sona College</tspan>
+  </text>
+
+  <!-- Technical Telemetry Flanks -->
+  <text x="45" y="86" class="font-mono" font-size="9.5" fill="#334155" letter-spacing="1.2">
+    CIPHER: TLS_AES_256_GCM_SHA384
+  </text>
+
+  <text x="1155" y="86" text-anchor="end" class="font-mono" font-size="9.5" fill="#334155" letter-spacing="1.2">
+    TERMINAL // STATUS 200 OK
+  </text>
+</svg>
